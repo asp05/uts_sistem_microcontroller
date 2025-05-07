@@ -51,6 +51,13 @@ Proyek ini merupakan implementasi sistem otomasi rumah sederhana menggunakan **A
 
 ---
 
+## 🔗 Link Proyek
+
+- 💻 [Simulasi Wokwi](https://wokwi.com/projects/your-project-id)  
+- 📺 [Demo YouTube](https://youtube.com/watch?v=your-video-id)
+
+---
+
 ## 📝 Catatan
 
 Proyek ini dirancang untuk menunjukkan pemahaman dasar tentang sistem mikrokontroler dan aplikasinya dalam otomasi rumah. Sistem ini dapat dikembangkan lebih lanjut dengan menambahkan sensor suhu, kendali jarak jauh, atau integrasi dengan sistem IoT untuk kontrol via smartphone.
